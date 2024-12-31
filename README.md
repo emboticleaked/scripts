@@ -1,2 +1,2 @@
 # scripts
-Abuse Scripts
+Abuse Scripts. More may come in the future, oopsies!
